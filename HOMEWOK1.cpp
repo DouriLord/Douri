@@ -8,5 +8,6 @@ using namespace std;
 int main()
 {
 	cout << "My name is Douri JEONG" << endl;
+	cout << "Douri, I am modifying your code. Love, Taylor\n\n"; 
 	return 0;
 }
